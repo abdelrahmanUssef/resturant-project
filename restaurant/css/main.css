@@ -1,0 +1,25 @@
+
+.home{
+    background-image: url(../img/1.jpg);
+    background-attachment:scroll;
+    background-size: 100% 100%;
+    height: 640;
+    /*
+    position: relative;
+    */
+}
+
+/* ==== start nav ==== */
+
+
+
+ul li a {
+    color: white !important;
+    font-size: 20px;
+    
+}
+
+/* ==== end nav ==== */
+
+/* ======= home page =======*/
+

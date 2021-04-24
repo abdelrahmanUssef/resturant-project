@@ -1,0 +1,154 @@
+.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: initial;
+}
+.btn1{
+    border-radius: 5px;
+    text-align: center;
+    color:black;
+    width: 70px;
+    height: 30px;
+    background-color:#ffb627 ;
+    box-shadow: inset 0 0 0 0 #ffe150;
+    transition: ease-out 0.3s;
+    outline: none;
+
+}
+.btn1:hover{
+    box-shadow: inset 70px 0 0 0 #ffe150 ;
+    text-decoration: none;
+    color: black;
+}
+
+.btn2{
+    border-radius: 5px;
+    text-align: center;
+    color: black;
+    width: 80px;
+    height: 30px;
+    background-color:#ffb627;
+    box-shadow: inset 0 0 0 0 #ffe150;
+    transition: ease-out 0.3s;
+    outline: none;
+    text-decoration: none;
+    
+}
+.btn2:hover{
+    box-shadow: inset 80px 0 0 0 #ffe150 ;
+    text-decoration: none;
+    color: black;
+}
+.btn3{
+    border-radius: 5px;
+    text-align: center;
+    color: black;
+    width: 100px;
+    height: 30px;
+    background-color:#ffb627;
+    box-shadow: inset 0 0 0 0 #ffe150;
+    transition: ease-out 0.3s;
+    outline: none;
+
+}
+.btn3:hover{
+    box-shadow: inset 100px 0 0 0 #ffe150 ;
+    text-decoration: none;
+    color: black;
+}
+.btn4{
+    border-radius: 5px;
+    text-align: center;
+    color: black;
+    width: 170px;
+    height: 50px;
+    background-color:#ffb627;
+    box-shadow: inset 0 0 0 0 #ffe150;
+    transition: ease-out 0.3s;
+    outline: none;
+
+}
+.btn4:hover{
+    box-shadow: inset 500px 0 0 0 #ffe150 ;
+    text-decoration: none;
+    color: black;
+}
+.btn5{
+    border-radius: 5px;
+    text-align: center;
+    color: black;
+    width: 170px;
+    height: 50px;
+    background-color:#6096ba;
+    box-shadow: inset 0 0 0 0 #b8dbd9;
+    transition: ease-out 0.3s;
+    outline: none;
+
+}
+.btn5:hover{
+    box-shadow: inset 500px 0 0 0 #b8dbd9 ;
+    text-decoration: none;
+    color: black;
+}
+.btn6{
+    border-radius: 5px;
+    text-align: center;
+    color: black;
+    width: 170px;
+    height: 30px;
+    background-color:#6096ba;
+    box-shadow: inset 0 0 0 0 #b8dbd9;
+    transition: ease-out 0.3s;
+    outline: none;
+
+}
+.btn6:hover{
+    box-shadow: inset 500px 0 0 0 #b8dbd9 ;
+    text-decoration: none;
+    color: black;
+}
+.btn7{
+    
+    border-radius: 5px;
+    text-align: center;
+    color: black;
+    width: 80px;
+    height: 30px;
+    background-color:#6096ba;
+    box-shadow: inset 0 0 0 0 #b8dbd9;
+    transition: ease-out 0.3s;
+    outline: none;
+
+}
+.btn7:hover{
+    box-shadow: inset 500px 0 0 0 #b8dbd9 ;
+    text-decoration: none;
+    color: black;
+}
+.btn8{
+    
+    border-radius: 5px;
+    text-align: center;
+    color: black;
+    width: 500px;
+    height: 30px;
+    background-color:#ffb627;
+    box-shadow: inset 0 0 0 0 #ffe150;
+    transition: ease-out 0.3s;
+    outline: none;
+
+}
+.btn8:hover{
+    box-shadow: inset 1000px 0 0 0 #ffe150 ;
+    text-decoration: none;
+    color: black;
+}
+nav{
+    background-color: #2e4756;
+}
+.body{
+    background-color: rgb(199, 164, 148);
+}
